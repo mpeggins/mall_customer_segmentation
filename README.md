@@ -1,4 +1,4 @@
-# mall_customer_segmentation
+# Mall Customer Segmentation using K-Means
 ## Executive Summary
 
 **Project Goal:**
